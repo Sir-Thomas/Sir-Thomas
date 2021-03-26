@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sir-Thomas
 - 👀 I’m interested in self hosting and embedded devices
 - 🌱 I’m currently learning to make a website
-- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me tommy.priest@pm.me
 
 <!---
