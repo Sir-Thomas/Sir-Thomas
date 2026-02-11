@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sir-Thomas
 - 👀 I’m interested in self hosting and embedded devices
-- 🌱 I’m currently learning to make a website
 - 📫 How to reach me tp8153@gmail.com
 
 <!---
